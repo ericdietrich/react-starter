@@ -1,9 +1,10 @@
-import './App.css';
+import '../src/css/global.css';
+import '../src/css/grid.css';
 
 function App() {
   return (
     <div className="App">
-      App Starter
+      app
     </div>
   );
 }
